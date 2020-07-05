@@ -1,0 +1,11 @@
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\bin\Debug\netcoreapp3.1\IteratotPattern.exe
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\bin\Debug\netcoreapp3.1\IteratotPattern.deps.json
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\bin\Debug\netcoreapp3.1\IteratotPattern.runtimeconfig.json
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\bin\Debug\netcoreapp3.1\IteratotPattern.runtimeconfig.dev.json
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\bin\Debug\netcoreapp3.1\IteratotPattern.dll
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\bin\Debug\netcoreapp3.1\IteratotPattern.pdb
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\obj\Debug\netcoreapp3.1\IteratotPattern.csprojAssemblyReference.cache
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\obj\Debug\netcoreapp3.1\IteratotPattern.AssemblyInfoInputs.cache
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\obj\Debug\netcoreapp3.1\IteratotPattern.AssemblyInfo.cs
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\obj\Debug\netcoreapp3.1\IteratotPattern.dll
+E:\C# Projects\Patterns\IteratotPattern\IteratotPattern\obj\Debug\netcoreapp3.1\IteratotPattern.pdb
